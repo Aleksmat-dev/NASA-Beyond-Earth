@@ -2,9 +2,9 @@
 
 A cinematic PowerPoint presentation by Aleksmat-dev exploring NASA's history, Apollo missions, life in orbit, Hubble and Webb, Mars exploration, and Artemis.
 
-## Download V4.1
+## Download the presentation
 
-Download **NASA_BEYOND_EARTH_V4_1_FINAL.pptx** from the [V4.1 release](https://github.com/Aleksmat-dev/NASA-Beyond-Earth/releases/tag/v4.1). The complete presentation is a Release attachment, so the embedded videos stay intact without adding a large binary to Git history. Access requires permission to this private repository.
+Download **NASA_BEYOND_EARTH.pptx** from the [presentation download](https://github.com/Aleksmat-dev/NASA-Beyond-Earth/releases/latest). The complete presentation is a Release attachment, so the embedded videos stay intact without adding a large binary to Git history. Access requires permission to this private repository.
 
 - File size: 147,649,531 bytes (147.65 MB).
 - 14 visible slides and one hidden References slide.
@@ -25,6 +25,6 @@ This is an independent educational project. NASA and its partners do not sponsor
 
 - `README.md`: download and presentation instructions.
 - `LICENSE`: rights notice distinguishing original contributions from third-party material.
-- `SOURCES.md`: source inventory supplied with the project, with V4.1 and rights clarifications.
-- `SHA256SUMS.txt`: integrity checksum for the final PowerPoint.
+- `SOURCES.md`: source inventory supplied with the project, with credits and rights information.
+- `SHA256SUMS.txt`: integrity checksum for the PowerPoint.
 - `.gitignore`: excludes presentation binaries, source media, backups and temporary files.

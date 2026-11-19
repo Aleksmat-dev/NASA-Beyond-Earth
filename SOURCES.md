@@ -1,6 +1,6 @@
-# NASA: Beyond Earth (V4) — sources and credits
+# NASA: Beyond Earth  — sources and credits
 
-The presentation combines NASA and partner imagery with Blender animations using NASA models and data and original project elements. Credits are retained in the speaker notes and hidden slide 15 (REFERENCES). In V4.1, most ANIMATION production labels were removed. Removing a label does not change the provenance of the underlying material.
+The presentation combines NASA and partner imagery with Blender animations using NASA models and data and original project elements. Credits are retained in the speaker notes and hidden slide 15 (REFERENCES).
 
 ## What is real and what is animated
 
