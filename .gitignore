@@ -1,0 +1,41 @@
+# Large deliverables belong in GitHub Releases
+*.pptx
+*.ppt
+*.ppsx
+*.pdf
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.blend
+*.blend1
+*.blend2
+*.zip
+*.7z
+
+# Local production assets and intermediate files
+MEDIA/
+BLENDER_SCENES/
+QA_EVIDENCE/
+BACKUP/
+assets/
+renders/
+work/
+outputs/
+
+# Office locks and operating-system files
+~$*
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
