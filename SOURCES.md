@@ -77,8 +77,3 @@ The presentation combines NASA and partner imagery with Blender animations using
 ## Sound
 
 Only slide 3 has sound (the Saturn V film's own track, normalised to −24 LUFS, volume 45% in PowerPoint). All space scenes are silent on purpose: there is no sound in a vacuum. No music or third-party audio is used, and the deck works fully muted.
-
-
-## Rights and version clarification for V4.1
-
-This inventory accompanied V4 and also describes the media retained in V4.1. Individual scientific and mission-status claims above were not freshly verified for this repository upload. Source credits do not by themselves establish a license for every use. Consult the original asset record, including partner credits, and [NASA media guidelines](https://www.nasa.gov/nasa-brand-center/images-and-media/). The project rights notice is in LICENSE.
