@@ -4,7 +4,7 @@ A cinematic PowerPoint presentation by Aleksmat-dev exploring NASA's history, Ap
 
 ## Download the presentation
 
-Download **NASA_BEYOND_EARTH.pptx** from the [presentation download](https://github.com/Aleksmat-dev/NASA-Beyond-Earth/releases/latest). The complete presentation is a Release attachment, so the embedded videos stay intact without adding a large binary to Git history. Access requires permission to this private repository.
+Download **NASA_BEYOND_EARTH.pptx** from the [presentation download](https://github.com/Aleksmat-dev/NASA-Beyond-Earth/releases/latest). The complete presentation is a Release attachment, so the embedded videos stay intact without adding a large binary to Git history. 
 
 - File size: 147,649,531 bytes (147.65 MB).
 - 14 visible slides and one hidden References slide.
